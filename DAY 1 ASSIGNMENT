@@ -1,0 +1,55 @@
+#Part 1: Introduction to Software Engineering
+1.	Software engineering is the application of engineering principles, methods and tools to the development and maintenance of high-quality software systems. It is important in the technology industry because it enables creation of  software applications that power aspects of the modern life.
+
+2.	The three key milestones in the evolution of software engineering are
+•	The development of programming languages e.g. Fortran
+•	The rise of agile methodologies
+•	The establishment of software engineering as a disciple in 1960s
+
+3.	The phases of the Software Development Life Cycle.
+•	Requirements-it involves gathering and documenting user needs and system requirements.
+•	Design-Involves creating high level designs of the software and user interface
+•	Implementation-putting to work i.e writing codes and creating design according to the specifications.
+•	Testing-Doing various test to ensure the software meets the quality standards and functions requirements.
+•	Deployment-releasing the software to the users.
+•	Maintenance- Providing updates and enhancements of the software after releasing.
+4.	Waterfall and agile are software developments whereby waterfall methodology is a linear approach where each phase is completed before moving to the next one while agile methodology is an iterative and incremental approach focused on flexibility, collaboration, and responding to change.
+
+5.	Roles and responsibilities of ;
+
+•	Software Developer- Responsible for writing code and implementing software solutions
+•	A Quality Assurance Engineer- Ensures software quality by designing and executing test plans.
+•	Project Manager-Oversees the planning, execution, and delivery of software projects
+
+6.	The importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process.
+
+Integrated Development Environments (IDEs): Software suites that provide comprehensive tools for writing, debugging, and testing code e.g., Visual Studio
+
+Version Control Systems (VCS): Software tools for tracking changes to source code and coordinating work among team members e.g. Git
+
+7.	Challenges faced by software engineers and  strategies to overcome these challenges.
+•	Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays. 
+•	Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality
+Strategies for overcoming challenges include;
+•	Effective communication
+•	Prioritization of tasks
+•	Regular reassessment of project goals and timelines.
+
+8.	Types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+Unit Testing: Testing individual components or modules of software.
+Integration Testing: Testing interactions between different components or subsystems.
+ System Testing: Testing the entire software system as a whole.
+Acceptance Testing: Testing the software against user requirements 
+
+Importance: helps identify and fix defects early in the development process, leading to higher-quality software products
+
+#Part 2: Introduction to AI and Prompt Engineering
+
+9.	prompt engineering is the process of structuring an instruction that can be interpreted and understood by AI. 
+       Importance: It helps improve the interaction between humans and AI
+
+10.	Example of a vague prompt: The Fall of Ceaușescu
+improve Prompt: uncover the events that unfolded in Romania during the 1989 revolution under the rule of Nicolae Ceaușescu and the fight for freedom that gripped a nation.
+
+The improved prompt is more effective because it provides clear guidance, allowing the AI model to generate a more relevant history of Romania under the rule of Nicolae Ceaușescu.
